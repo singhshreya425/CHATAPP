@@ -3,7 +3,8 @@ REAL TIME CHAT CORD
 
 =>create a app where multiple user can chat together and msgs get updated without refreshing 
 the page.
-use websockets
+
+=>use websockets
 
 =>This application built using Node.js, Express, Socket.io, RESTful Web Service.
 
